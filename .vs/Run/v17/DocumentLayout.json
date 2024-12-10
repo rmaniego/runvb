@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\drive\\notebooks\\education\\sti-ormoc\\2 - Second Year\\First Semester\\Finals\\Computer Programming\\New Folder\\Others\\Run\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3E97F1-E30D-4363-ACA6-D3FE42E235BB}|Run\\Run.vbproj|c:\\drive\\notebooks\\education\\sti-ormoc\\2 - second year\\first semester\\finals\\computer programming\\new folder\\others\\run\\run\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD3E97F1-E30D-4363-ACA6-D3FE42E235BB}|Run\\Run.vbproj|solutionrelative:run\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3E97F1-E30D-4363-ACA6-D3FE42E235BB}|Run\\Run.vbproj|C:\\drive\\notebooks\\education\\sti-ormoc\\2 - Second Year\\First Semester\\Finals\\Computer Programming\\New Folder\\Others\\Run\\run\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD3E97F1-E30D-4363-ACA6-D3FE42E235BB}|Run\\Run.vbproj|solutionrelative:run\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\drive\\notebooks\\education\\sti-ormoc\\2 - Second Year\\First Semester\\Finals\\Computer Programming\\New Folder\\Others\\Run\\Run\\Form1.vb",
+              "RelativeDocumentMoniker": "Run\\Form1.vb",
+              "ToolTip": "C:\\drive\\notebooks\\education\\sti-ormoc\\2 - Second Year\\First Semester\\Finals\\Computer Programming\\New Folder\\Others\\Run\\Run\\Form1.vb",
+              "RelativeToolTip": "Run\\Form1.vb",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAtwLkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T16:54:42.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\drive\\notebooks\\education\\sti-ormoc\\2 - Second Year\\First Semester\\Finals\\Computer Programming\\New Folder\\Others\\Run\\Run\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Run\\Form1.Designer.vb",
+              "ToolTip": "C:\\drive\\notebooks\\education\\sti-ormoc\\2 - Second Year\\First Semester\\Finals\\Computer Programming\\New Folder\\Others\\Run\\Run\\Form1.Designer.vb",
+              "RelativeToolTip": "Run\\Form1.Designer.vb",
+              "ViewState": "AQIAAB4AAAAAAAAAAAD4vy8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T16:54:30.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

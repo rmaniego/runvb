@@ -1,0 +1,21 @@
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\bin\Debug\Run.exe
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\bin\Debug\Run.pdb
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\bin\Debug\Run.xml
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\obj\Debug\ResolveAssemblyReference.cache
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\obj\Debug\Run.Form1.resources
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\obj\Debug\Run.Resources.resources
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\obj\Debug\Run.vbproj.GenerateResource.Cache
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\obj\Debug\Run.exe
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\obj\Debug\Run.xml
+\\fileserver.sti.lan\files\students\BSIT\Maniego, Rodney Jr\Second Year\Prefi\Others\Run\Run\obj\Debug\Run.pdb
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\bin\Debug\Run.exe
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\bin\Debug\Run.pdb
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\bin\Debug\Run.xml
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\obj\Debug\Run.vbproj.AssemblyReference.cache
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\obj\Debug\Run.Form1.resources
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\obj\Debug\Run.Resources.resources
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\obj\Debug\Run.vbproj.GenerateResource.cache
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\obj\Debug\Run.vbproj.CoreCompileInputs.cache
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\obj\Debug\Run.exe
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\obj\Debug\Run.xml
+C:\drive\notebooks\education\sti-ormoc\2 - Second Year\First Semester\Finals\Computer Programming\New Folder\Others\Run\Run\obj\Debug\Run.pdb
